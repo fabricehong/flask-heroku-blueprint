@@ -1,1 +1,1 @@
-web: gunicorn blueprintexample --log-file -
+web: python blueprintexample.py
